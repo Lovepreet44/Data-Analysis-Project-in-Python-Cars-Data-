@@ -14,7 +14,8 @@ The commands that I used in this project :
 * value_counts - In a column, it shows all the unique values with their count. It can be applied to a single column only.
 * isin() - To show all records including particular elements
 * apply() - To apply a function along any axis of DF
-''' py
+
+'''
 
 
 '''
