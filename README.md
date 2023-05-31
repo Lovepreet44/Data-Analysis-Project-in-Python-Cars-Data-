@@ -15,7 +15,7 @@ The commands that I used in this project :
 * isin() - To show all records including particular elements
 * apply() - To apply a function along any axis of DF
 
-'''
+```
 
 
-'''
+```
